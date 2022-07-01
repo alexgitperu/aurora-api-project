@@ -109,3 +109,5 @@ The Aurora project was developed by [Alex Alves](https://www.linkedin.com/in/ale
 * https://medium.com/@alexalves_85598/criando-uma-api-em-net-core-baseado-na-arquitetura-ddd-2c6a409c686
 * https://alexalvess.medium.com/organizando-seu-projeto-net-com-arquitetura-hexagonal-parte-01-a598662a3818
 * https://alexalvess.medium.com/organizando-seu-projeto-net-com-arquitetura-hexagonal-parte-02-fe9a8ed6ab02
+
+# una prueba
